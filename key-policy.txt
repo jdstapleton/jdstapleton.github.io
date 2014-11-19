@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+PGP Key Management Policy for James Stapleton <jstaplet-heylookan@symbol.jamesstapleton.com>
+
+Last Updated: 2014-05-13
+
+ACTIVE KEYS
+
+I have two active, current PGP keys.  They are:
+pub   2048R/6E597E68 2014-01-06 [expires: 2015-01-06]
+      Key fingerprint = 0DF4 30C5 E1EB DE3C F38A  AF75 52DD 85DA 6E59 7E68
+uid                  James Stapleton <jstapleton-heylookan@symbol.42six.com>
+sub   2048R/E048BD00 2014-01-06 [expires: 2015-01-06]
+
+pub   4096R/32301B95 2014-05-07 [expires: 2018-05-07]
+      Key fingerprint = AFC8 AE95 9C2E FD84 04D6  D4B1 DDC6 5FF1 3230 1B95
+uid                  James Stapleton (My Email keypair) <jstaplet-heylookan@symbol.gmail.com>
+uid                  James Stapleton (Another Personal Email) <jstaplet-heylookan@symbol.jamesstapleton.com>
+sub   4096R/B487860F 2014-05-07 [expires: 2018-05-07]
+sub   4096R/84F19051 2014-05-08 [expires: 2018-05-08]
+sub   4096R/C2AD783E 2014-05-08 [expires: 2018-05-08]
+
+This first key comes from my work assignments.  Probably don't need to use this one unless its 42six related.
+
+The primary key for 3230 1B95 is stored only on a separate keyring,
+under passphrase and on an encrypted volume, which is not normally
+available for use.  The subkeys attached to it are normally available
+for my use.  It is accessed only via trusted devices and authenticated connections (e.g., ssh from a trusted machine or the physical console).
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+iQIcBAEBAgAGBQJTcjQeAAoJELO7Vs2E8ZBRQEgP/Rk80b5XA8QP/mGrebuz1Hqh
+SxNAr00ggkvT+ZtSm1xj7xpliQkP82xYfBmEdt9IKvaiwZtpaxLn0CQYaVSPwk4B
+ae4hITl+qprbpSOt4t4BRjPQFWzFi5KoBGgW05O3hb/7364SeI77cAmYDF51sYKG
+I4dtWw0/tbZSc4iPeG0/YiIgdZGXrSn2znqlclEcIWsN+ueuyQztiiXetjr8+c72
+ZjsCJdP44S1NNxKGjXhwdfZR/LPmyDVxy+b8Jswp9Dk1vtkFdGuiBxGRWObw+tdR
+Bl48dvY1LQcUnzgVTA31AjwZHlJpEhpG5+6gToWLbhaG6qMlOFOMPiY5U0JCeuYH
+6EVzgU7E5gizC/NENaA9b7AsV1CUxvwFkqtWTVDjVvYSXtyfVzxJw60gEOeYcYQA
+hgJCHEp0e1UiYrqTVagVnnYIikcT2BQ7D1fPi5sJKtvTZkn15eSHPw2fVNHeRdqO
+0UwqKcQiB+hcSJ1QHKM0LVUe1M/nszYcQexoe24xeUEa+04+QG4HvJZKkVobYnqY
+O4kc0gpjEBZJzmTN9TOrPwgBteLGELW9heVaPprpWustkaw25mBD7FYPIYF5l0/1
+kwAeRoqXOmjT6SbGvZ7tFPmfdIKov/uyBIXMvoRLzDP/zlAND4nmm7cGmUlDrJzM
+KWf8M82dLDjsiZKtqAXT
+=6jKo
+-----END PGP SIGNATURE-----
